@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+package.json
+public/favicon.ico
+public/manifest.json
+.vscode/settings.json
+src/registerServiceWorker.js
